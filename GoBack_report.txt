@@ -1,0 +1,81 @@
+
+aniket is sending data to aniket--------------------
+Total packet sent = 224
+Effective packet sent = 64
+Total time taken = 0.929204 minutes
+Receiver Throughput =    661 bps
+Utilization percentage =  16.53 %
+Average Successful Transmission time of a packet = 0.871129 seconds/packet
+
+
+aniket is sending data to aniket--------------------
+Total packet sent = 177
+Effective packet sent = 64
+Total time taken = 0.806005 minutes
+Receiver Throughput =    762 bps
+Utilization percentage =  19.06 %
+Average Successful Transmission time of a packet = 0.755630 seconds/packet
+
+
+s1 is sending data to s2--------------------
+Total packet sent = 33
+Effective packet sent = 9
+Total time taken = 0.158275 minutes
+Receiver Throughput =    545 bps
+Utilization percentage =  13.65 %
+Average Successful Transmission time of a packet = 1.055165 seconds/packet
+
+
+s1 is sending data to s2--------------------
+Total packet sent = 34
+Effective packet sent = 9
+Total time taken = 0.224457 minutes
+Receiver Throughput =    384 bps
+Utilization percentage =   9.62 %
+Average Successful Transmission time of a packet = 1.496377 seconds/packet
+
+
+s1 is sending data to s2--------------------
+Total packet sent = 30
+Effective packet sent = 9
+Total time taken = 0.164099 minutes
+Receiver Throughput =    526 bps
+Utilization percentage =  13.16 %
+Average Successful Transmission time of a packet = 1.093994 seconds/packet
+
+
+s1 is sending data to s2--------------------
+Total packet sent = 28
+Effective packet sent = 9
+Total time taken = 0.146879 minutes
+Receiver Throughput =    588 bps
+Utilization percentage =  14.71 %
+Average Successful Transmission time of a packet = 0.979193 seconds/packet
+
+
+s1 is sending data to s2--------------------
+Total packet sent = 49
+Effective packet sent = 9
+Total time taken = 0.281827 minutes
+Receiver Throughput =    306 bps
+Utilization percentage =   7.66 %
+Average Successful Transmission time of a packet = 1.878848 seconds/packet
+
+
+client-11 is sending data to client-22--------------------
+Total packet sent = 19
+Effective packet sent = 9
+Total time taken = 0.140518 minutes
+Receiver Throughput =    614 bps
+Utilization percentage =  15.37 %
+Average Successful Transmission time of a packet = 0.936787 seconds/packet
+
+
+client21 is sending data to client22--------------------
+Total packet sent = 9
+Effective packet sent = 9
+Total time taken = 0.037761 minutes
+Receiver Throughput =   2288 bps
+Utilization percentage =  57.20 %
+Average Successful Transmission time of a packet = 0.251740 seconds/packet
+

@@ -1,0 +1,90 @@
+
+client1 is sending data to client1--------------------
+Total packet sent = 117
+Effective packet sent = 64
+Total time taken = 2.089545 minutes
+Receiver Throughput =    294 bps
+Utilization percentage =   7.35 %
+Average Successful Transmission time of a packet = 1.958948 seconds/packet
+
+
+client1 is sending data to client1--------------------
+Total packet sent = 115
+Effective packet sent = 64
+Total time taken = 2.022238 minutes
+Receiver Throughput =    303 bps
+Utilization percentage =   7.60 %
+Average Successful Transmission time of a packet = 1.895848 seconds/packet
+
+
+client1 is sending data to client1--------------------
+Total packet sent = 123
+Effective packet sent = 64
+Total time taken = 2.346832 minutes
+Receiver Throughput =    261 bps
+Utilization percentage =   6.54 %
+Average Successful Transmission time of a packet = 2.200155 seconds/packet
+
+
+aniket is sending data to aniket--------------------
+Total packet sent = 9
+Effective packet sent = 9
+Total time taken = 0.045613 minutes
+Receiver Throughput =   1894 bps
+Utilization percentage =  47.35 %
+Average Successful Transmission time of a packet = 0.304087 seconds/packet
+
+
+aniket is sending data to bhunia--------------------
+Total packet sent = 19
+Effective packet sent = 9
+Total time taken = 0.396478 minutes
+Receiver Throughput =    217 bps
+Utilization percentage =   5.45 %
+Average Successful Transmission time of a packet = 2.643189 seconds/packet
+
+
+aniket is sending data to bhunia--------------------
+Total packet sent = 16
+Effective packet sent = 9
+Total time taken = 0.274548 minutes
+Receiver Throughput =    314 bps
+Utilization percentage =   7.87 %
+Average Successful Transmission time of a packet = 1.830319 seconds/packet
+
+
+c1 is sending data to bhunia--------------------
+Total packet sent = 18
+Effective packet sent = 9
+Total time taken = 0.350409 minutes
+Receiver Throughput =    246 bps
+Utilization percentage =   6.16 %
+Average Successful Transmission time of a packet = 2.336062 seconds/packet
+
+
+c1 is sending data to c2--------------------
+Total packet sent = 13
+Effective packet sent = 9
+Total time taken = 0.165414 minutes
+Receiver Throughput =    522 bps
+Utilization percentage =  13.06 %
+Average Successful Transmission time of a packet = 1.102761 seconds/packet
+
+
+client-1 is sending data to client-2--------------------
+Total packet sent = 15
+Effective packet sent = 9
+Total time taken = 0.259714 minutes
+Receiver Throughput =    332 bps
+Utilization percentage =   8.32 %
+Average Successful Transmission time of a packet = 1.731430 seconds/packet
+
+
+client1 is sending data to client2--------------------
+Total packet sent = 13
+Effective packet sent = 9
+Total time taken = 0.175093 minutes
+Receiver Throughput =    493 bps
+Utilization percentage =  12.34 %
+Average Successful Transmission time of a packet = 1.167287 seconds/packet
+
